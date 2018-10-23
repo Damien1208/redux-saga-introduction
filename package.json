@@ -1,0 +1,31 @@
+{
+  "name": "redux-saga-introduction",
+  "version": "0.1.0",
+  "description": "Quick introduction to redux-saga middleware",
+  "author": "Carl Hüffmeier",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [
+    "redux",
+    "redux-saga",
+    "tutorial"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-scripts": "^2.0.5",
+    "redux": "^4.0.1",
+    "redux-saga": "^0.16.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
